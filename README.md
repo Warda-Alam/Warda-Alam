@@ -80,7 +80,7 @@
 ## 📈 Activity Graph  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warda-alam&bg_color=b2d8d8&color=004c4c&line=004c4c&point=004c4c&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warda-alam&bg_color=dcf7f7&color=008080&line=008080&point=008080&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
