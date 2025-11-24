@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/warda-alam?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/warda-alam?style=social" alt="GitHub stars" />
-  <img src="https://komarev.com/ghpvc/?username=warda-alam&color=008080&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -56,7 +55,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=warda-alam&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warda-alam&theme=rose_pine&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
